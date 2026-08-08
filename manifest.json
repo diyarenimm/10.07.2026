@@ -1,0 +1,15 @@
+{
+  "name": "Yaren & Diyar Aşk Dünyası",
+  "short_name": "Yaren&Diyar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080212",
+  "theme_color": "#ff1493",
+  "icons": [
+    {
+      "src": "foto1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
